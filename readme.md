@@ -105,14 +105,15 @@ Whether you're an individual looking to upskill or a company preparing for the A
 ## 📫 Connect
 
 🌐 Website
-https://kandelg.com.np
+[https://kandelg.com.np](kandelg.com.np) 
+
 
 
 📧 Email
-yesgpk@gmail.com
+[yesgpk@gmail.com](mailto:yesgpk@gmail.com)
 
 💼 LinkedIn
-https://linkedin.com/in/kandelg
+[https://linkedin.com/in/kandelg](https://linkedin.com/in/kandelg)
 
 ---
 
