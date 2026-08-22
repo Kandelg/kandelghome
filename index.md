@@ -1,8 +1,6 @@
-
 # 👋 Hi, I'm Gyanendra Kandel
 
-### <img src="./images/nepal-flag.png" width="20" height="22" style="display:inline-block; vertical-align:middle; margin-right:5px;"> Nepal’s AI Trainer | Corporate AI Trainer | Founder of Technology Channel
-
+### <img src="./images/nepal-flag.png" width="40" height="44" style="display:inline-block; vertical-align:middle; margin-right:5px;"> Nepal’s AI Trainer | Corporate AI Trainer | Founder of Technology Channel
 
 I help **professionals, entrepreneurs, businesses, and students** learn practical Artificial Intelligence skills that improve productivity, automate work, and create new opportunities.
 
@@ -50,6 +48,7 @@ Whether you're an individual looking to upskill or a company preparing for the A
 ## 🛠️ Technologies
 
 ### AI
+
 - ChatGPT
 - Claude
 - Gemini
@@ -58,6 +57,7 @@ Whether you're an individual looking to upskill or a company preparing for the A
 - NotebookLM
 
 ### Development
+
 - Python
 - JavaScript
 - Flutter
@@ -65,6 +65,7 @@ Whether you're an individual looking to upskill or a company preparing for the A
 - FastAPI
 
 ### AI Automation
+
 - n8n
 - Make
 - Zapier
@@ -72,6 +73,7 @@ Whether you're an individual looking to upskill or a company preparing for the A
 - APIs
 
 ### Cloud & DevOps
+
 - Docker
 - Linux
 - Git
@@ -83,7 +85,6 @@ Whether you're an individual looking to upskill or a company preparing for the A
 
 - 🌐 **Personal Website**
   https://kandelg.com.np
-
 
 - 🎓 **AI Ready Training**
   http://kandelg.com.np/
@@ -107,15 +108,13 @@ Whether you're an individual looking to upskill or a company preparing for the A
 ## 📫 Connect
 
 🌐 Website
-[https://kandelg.com.np](kandelg.com.np) 
-
-
+[www.kandelg.com.np](https://kandelg.com.np)
 
 📧 Email
 [yesgpk@gmail.com](mailto:yesgpk@gmail.com)
 
 💼 LinkedIn
-[https://linkedin.com/in/kandelg](https://linkedin.com/in/kandelg)
+[www.linkedin.com/in/kandelg](https://linkedin.com/in/kandelg)
 
 ---
 
