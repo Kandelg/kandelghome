@@ -1,3 +1,9 @@
+
+
+---
+title: Kandel G!
+---
+
 # 👋 Hi, I'm Gyanendra Kandel
 
 ## 🇳🇵 Nepal's AI Trainer | Corporate AI Trainer | Founder of Technology Channel
