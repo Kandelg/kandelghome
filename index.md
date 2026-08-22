@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Gyanendra Kandel
 
-## NP Nepal’s AI Trainer | Corporate AI Trainer | Founder of Technology Channel
+## ![ ](image.png) Nepal’s AI Trainer | Corporate AI Trainer | Founder of Technology Channel
 
 
 
