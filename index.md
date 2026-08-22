@@ -116,6 +116,8 @@ Whether you're an individual looking to upskill or a company preparing for the A
 💼 LinkedIn
 [www.linkedin.com/in/kandelg](https://linkedin.com/in/kandelg)
 
+<a href="https://linkedin.com" target="_blank">www.linkedin.com/in/kandelg</a>
+
 ---
 
 > **Helping Nepal embrace Artificial Intelligence through practical skills, real-world implementation, and lifelong learning.**
