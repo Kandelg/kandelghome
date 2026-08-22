@@ -111,7 +111,7 @@ Whether you're an individual looking to upskill or a company preparing for the A
 <a href="https://kandelg.com.np" target="_blank">www.kandelg.com.np</a>
 
 ✉️ Email 
-<a href="https://formsubmit.co" target="_blank">Contact via Email</a>
+<a href="mailto:info@kandelg.com.np">info@kandelg.com.np</a>
 
 💼 LinkedIn
 <a href="https://linkedin.com" target="_blank">www.linkedin.com/in/kandelg</a>
