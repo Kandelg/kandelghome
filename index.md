@@ -111,6 +111,7 @@ Whether you're an individual looking to upskill or a company preparing for the A
 <a href="https://kandelg.com.np" target="_blank">www.kandelg.com.np</a>
 
 ✉️ Email
+✉️ Email
 <a href="https://google.com" target="_blank">info@kandelg.com.np</a>
 
 💼 LinkedIn
