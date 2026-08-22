@@ -89,8 +89,8 @@ Whether you're an individual looking to upskill or a company preparing for the A
 - 🎓 **AI Ready Training**
   http://kandelg.com.np/
 
-- 📺 **Technology Channel**
-  https://youtube.com/funpostnepal
+- 📺 **Youtube Channel**
+  <a href="https://youtube.com/funpostnepal" target="_blank">www.youtube.com/funpostnepal</a>
 
 ---
 
@@ -111,11 +111,10 @@ Whether you're an individual looking to upskill or a company preparing for the A
 [www.kandelg.com.np](https://kandelg.com.np)
 
 📧 Email
-[yesgpk@gmail.com](mailto:yesgpk@gmail.com)
+[info@kandelg.com.np] <mailto:info@kandelg.com.np>
+
 
 💼 LinkedIn
-[www.linkedin.com/in/kandelg](https://linkedin.com/in/kandelg)
-
 <a href="https://linkedin.com" target="_blank">www.linkedin.com/in/kandelg</a>
 
 ---
