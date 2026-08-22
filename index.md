@@ -1,8 +1,3 @@
-html 
-<style> 
-header, .site-header, h1.project-name {display:none ! important; }
-</style> 
-#Kandel G !
 
 # 👋 Hi, I'm Gyanendra Kandel
 
