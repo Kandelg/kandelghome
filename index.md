@@ -1,7 +1,8 @@
 
 # 👋 Hi, I'm Gyanendra Kandel
 
-## <img src="https://wikimedia.org" width="18" height="22" style="vertical-align: middle;"> Nepal’s AI Trainer | Corporate AI Trainer | Founder of Technology Channel
+## ![Nepal Flag](https://wikimedia.org) Nepal’s AI Trainer | Corporate AI Trainer | Founder of Technology Channel
+
 
 
 I help **professionals, entrepreneurs, businesses, and students** learn practical Artificial Intelligence skills that improve productivity, automate work, and create new opportunities.
