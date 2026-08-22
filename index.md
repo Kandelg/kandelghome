@@ -1,6 +1,7 @@
 html 
 <style> 
 header, .site-header, h1.project-name {display:none ! important; }
+<style> 
 
 # 👋 Hi, I'm Gyanendra Kandel
 
