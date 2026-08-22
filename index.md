@@ -108,10 +108,10 @@ Whether you're an individual looking to upskill or a company preparing for the A
 ## 📫 Connect
 
 🌐 Website
-[www.kandelg.com.np](https://kandelg.com.np)
+<a href="https://kandelg.com.np" target="_blank">www.kandelg.com.np</a>
 
-📧 Email
-[info@kandelg.com.np](mailto:info@kandelg.com.np)
+✉️ Email
+<a href="mailto:info@kandelg.com.np" target="_blank">info@kandelg.com.np</a>
 
 💼 LinkedIn
 <a href="https://linkedin.com" target="_blank">www.linkedin.com/in/kandelg</a>
